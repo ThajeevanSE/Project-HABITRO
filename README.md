@@ -77,6 +77,33 @@
 ## Dark Mode
 <img width="960" height="505" alt="Screenshot 2025-07-17 133749" src="https://github.com/user-attachments/assets/60fd58b7-9819-4d30-9069-cd321ed80380" />
 
+# Mobile App 
+
+## Login Page
+<img width="450" height="900" alt="Picture5" src="https://github.com/user-attachments/assets/2023b872-39ca-464f-8cb5-c2de76ede060" />
+<img width="450" height="900" alt="Picture5" src="https://github.com/user-attachments/assets/2bda273f-d4b4-4527-b2ed-1be0a07970d7" />
+
+## Home Page
+<img width="450" height="900" alt="Picture3" src="https://github.com/user-attachments/assets/85e2c6ed-0a36-4e9b-bd0c-5e034dc5fda4" />
+
+## Profile Page
+
+<img width="450" height="900" alt="Screenshot 2025-09-06 092615" src="https://github.com/user-attachments/assets/f44889ed-b7f6-489a-8cfc-cf9b6fe54160" />
+
+## Leader Board
+
+<img width="450" height="900" alt="Screenshot 2025-09-06 092817" src="https://github.com/user-attachments/assets/d7c457d9-e98d-4b36-886d-7486733be077" />
+
+## Game
+
+<img width="450" height="900" alt="Picture9" src="https://github.com/user-attachments/assets/dfedaa9c-03fe-4e77-8351-f63c1ef5686c" />
+
+
+
+
+
+
+
 
 
 
